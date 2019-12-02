@@ -1,0 +1,3 @@
+[submodule "oneOfMultiApp"]
+	path = project/app
+	url = https://github.com/samuel6464/oneOfMultiApp.git
